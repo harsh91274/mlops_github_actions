@@ -1,2 +1,1 @@
-# mlops_github_actions
-mlops with github actions 
+# End to End ML project with github actions
